@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+}
+
+#back { 
+    /* The image used */
+    background-image: url("./images/field2.jpg");
+
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#brand{
+    height: 80px;
+    width: 80px;
+}
